@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img src="../avatar.jpg" alt="RWKV-APP Avatar" width="200" style="border-radius: 50%;">
-
-
 <h3>
   <b>Make Large Models Accessible to Everyone.</b><br>
   让大模型触手可及。
